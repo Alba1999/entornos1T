@@ -1,0 +1,4 @@
+λ git log --pretty=oneline
+7a56c8ac1d19eba0fc7f22c76c2f2c9afc865b88 (HEAD -> NUNEZ-ARRANZ) “Añadida
+b79c7ba1a5c71fc30ef8de370fdd12c40e316a8a (origin/main, origin/HEAD, main) Update .gitignore
+7b39baf748c6a994c95cdb9df0eba4b586319a14 Initial commit
